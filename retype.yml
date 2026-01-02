@@ -1,0 +1,17 @@
+branding:
+  title: /iemg/ Shopping Guide
+  icon: 
+
+links:
+  - text: Source Shopping Guide
+    icon: trophy
+    link: https://rentry.org/consoomer_guide
+
+url: 
+
+markdown:
+  lineBreaks: hard
+
+
+search:
+  mode: full
