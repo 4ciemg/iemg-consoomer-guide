@@ -23,6 +23,6 @@ There are resources for newcomers, sister sites for EQ and community impressions
 
 !!!question Old Rentry Guide?
 The [old guide](https://rentry.org/consoomer_guide) has been "archived" without update since October 22nd 2025. 
-The guide is now being hosted and run by the IEMGazette editor with approval from the previous owner. 
+It is now hosted and run by the IEMGazette editor with approval from the previous owner. 
 Thank you anon for the 3 years of contribution!
 !!!
