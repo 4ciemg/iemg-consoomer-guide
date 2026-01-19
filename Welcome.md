@@ -1,6 +1,7 @@
 # /iemg/ - In-Ear Monitor General Shopping Guide
 
 ***
+
 !!!tip Keep in Mind
 Aesthetics, wearing comfort, and perceived sound quality are all matters of subjective experience. Ear anatomy, hearing ability, and preferences for sound tilt vary. Take impressions and reviews with a grain of salt. 
 !!!
@@ -18,4 +19,8 @@ Within sub-categories, names are primarily listed by price (low to high) or alph
 Sound descriptors given for IEMs are weak approximations. Refer to frequency response graphs for better insight. 
 A tilde "~" denotes if adjustable sound tuning is advertised (e.g., exchangeable nozzles, DIP switch, impedance adapter, or DSP cable).
 There are resources for newcomers, sister sites for EQ and community impressions, and more in the Helpful External Links section.
+!!!
+
+!!!question Old Rentry Guide?
+The guide is now being hosted and run by the IEMGazette editor with approval from the old guide's creator. The [old guide](https://rentry.org/consoomer_guide) has been "archived" without update since October 22nd 2025. 
 !!!
