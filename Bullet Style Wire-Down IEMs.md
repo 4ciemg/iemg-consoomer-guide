@@ -2,7 +2,7 @@
 order: 94
 ---
 
-# Bullet Style Wire-Down IEMs ($15 - $100)
+# Bullet Style Wire-Down IEMs
 
 ***
 
